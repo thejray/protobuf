@@ -34,7 +34,7 @@
 
 #include <google/protobuf/text_format.h>
 
-#include <math.h>
+#include <cmath>
 #include <stdlib.h>
 
 #include <limits>
